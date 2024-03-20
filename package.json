@@ -14,8 +14,8 @@
   },
   "keywords": [],
   "author": "",
-  "bin" : {
-    "boylerplate" : "./dist/index.js"   
+  "bin": {
+    "boylerplate": "./dist/index.js"
   },
   "license": "ISC",
   "devDependencies": {
@@ -38,6 +38,7 @@
   },
   "dependencies": {
     "inquirer": "^8.2.5",
+    "puppeteer": "^22.5.0",
     "shelljs": "^0.8.5"
   }
 }
